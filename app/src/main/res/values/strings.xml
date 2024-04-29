@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomSpinner_kotlin</string>
+    <string name="server_title">伺服器</string>
+</resources>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="distance_5">5dp</dimen>
+    <dimen name="distance_10">10dp</dimen>
+    <dimen name="distance_13">13dp</dimen>
+    <dimen name="distance_15">15dp</dimen>
+    <dimen name="distance_20">20dp</dimen>
+    <dimen name="distance_25">25dp</dimen>
+    <dimen name="distance_30">30dp</dimen>
+    <dimen name="distance_35">35dp</dimen>
+    <dimen name="distance_40">40dp</dimen>
+    <dimen name="distance_50">50dp</dimen>
+
+    <dimen name="txtsize_8">8sp</dimen>
+    <dimen name="txtsize_12">12sp</dimen>
+    <dimen name="txtsize_16">16sp</dimen>
+    <dimen name="txtsize_18">18sp</dimen>
+    <dimen name="txtsize_20">20sp</dimen>
+    <dimen name="txtsize_22">22sp</dimen>
+    <dimen name="txtsize_24">24sp</dimen>
+    <dimen name="txtsize_30">30sp</dimen>
+    <dimen name="txtsize_32">32sp</dimen>
+    <dimen name="txtsize_36">36sp</dimen>
+    <dimen name="txtsize_40">40sp</dimen>
+
+    <dimen name="model_stream_padding_alitle">5dp</dimen>
+    <dimen name="model_stream_padding_small">10dp</dimen>
+    <dimen name="model_stream_padding_login_icon">2dp</dimen>
+    <dimen name="model_stream_padding_normal_16">16dp</dimen>
+    <dimen name="model_stream_padding_normal_12">12dp</dimen>
+
+    <dimen name="model_stream_margin_small">20dp</dimen>
+    <dimen name="model_stream_margin_middle">40dp</dimen>
+    <dimen name="model_stream_margin_large">60dp</dimen>
+
+    <dimen name="model_stream_broder_width">1dp</dimen>
+    <dimen name="model_stream_broder_width_3dp">3dp</dimen>
+    <dimen name="model_stream_broder_radius">5dp</dimen>
+
+    <dimen name="model_stream_divider_height">1dp</dimen>
+    <dimen name="model_stream_input_edittext_width_126">126dp</dimen>
+    <dimen name="model_stream_input_edittext_width_162">162dp</dimen>
+    <dimen name="model_stream_input_edittext_height">30dp</dimen>
+    <dimen name="model_stream_input_edittext_height_52">52dp</dimen>
+    <dimen name="model_stream_input_edittext_height_151">151dp</dimen>
+    <dimen name="model_stream_short_rectangle_header_width">50dp</dimen>
+    <dimen name="model_stream_click_width">40dp</dimen>
+
+    <dimen name="model_stream_page_padding">@dimen/model_stream_padding_small</dimen>
+    <dimen name="model_stream_big_page_padding">@dimen/model_stream_margin_small</dimen>
+
+    <dimen name="model_stream_checkbox_size">@dimen/model_stream_margin_small</dimen>
+    <dimen name="model_stream_alittle_icon">20dp</dimen>
+    <dimen name="model_stream_small_icon">30dp</dimen>
+    <dimen name="model_stream_small_icon_40dp">40dp</dimen>
+    <dimen name="model_stream_small_icon_50dp">50dp</dimen>
+    <dimen name="model_stream_middle_icon">100dp</dimen>
+    <dimen name="model_stream_middle_icon_80dp">80dp</dimen>
+    <dimen name="model_stream_big_icon">200dp</dimen>
+
+    <dimen name="model_stream_message_border_radius">200dp</dimen>
+
+    <dimen name="model_stream_small_list_height">@dimen/model_stream_small_icon</dimen>
+
+    <dimen name="radius_5dp">5dp</dimen>
+    <dimen name="model_stream_radius_input">8dp</dimen>
+    <dimen name="model_stream_radius_12dp">12dp</dimen>
+    <dimen name="model_stream_radius_4dp">4dp</dimen>
+    <dimen name="radius_10dp">10dp</dimen>
+
+    <dimen name="model_stream_border_width">1dp</dimen>
+
+    <dimen name="model_stream_header_height">44dp</dimen>
+    <dimen name="model_stream_bottom_height">75dp</dimen>
+
+    <dimen name="model_stream_common_padding">16dp</dimen>
+
+    <!--    color button -->
+    <dimen name="model_stream_color_button_width">26dp</dimen>
+    <dimen name="model_stream_color_button_border_width">2dp</dimen>
+    <dimen name="model_stream_color_button_padding">12dp</dimen>
+
+    <!--    sale-->
+    <dimen name="sale_item_label_width">80dp</dimen>
+    <dimen name="sale_item_block_width">150dp</dimen>
+    <dimen name="sale_switch_width">90dp</dimen>
+    <dimen name="model_stream_new_sale_item_click_action_activity_bg_radius">16dp</dimen>
+
+    <!--    spec setup activity-->
+    <dimen name="spec_setup_activity_header_count_width">100dp</dimen>
+    <dimen name="spec_setup_activity_header_del_width">@dimen/model_stream_input_edittext_height</dimen>
+
+    <!--    SpecManagementActivity-->
+    <dimen name="spec_management_activity_header_edit_width">80dp</dimen>
+
+    <!--    SpecDetailsManagementActivity-->
+    <dimen name="spec_details_management_activity_header_del_width">@dimen/model_stream_input_edittext_height</dimen>
+
+    <!--    activity_option_menu-->
+    <dimen name="activity_option_menu_button_padding">20dp</dimen>
+    <dimen name="activity_option_menu_button_content_width">160dp</dimen>
+
+    <!--    new_sale_items_adapter_item-->
+    <dimen name="new_sale_items_adapter_item_image_width">@dimen/model_stream_big_icon</dimen>
+
+    <!--    keyword lottery-->
+    <dimen name="keyword_lottery_lottery_user_rectangle_width">100dp</dimen>
+    <dimen name="keyword_lottery_lottery_user_name_width">60dp</dimen>
+
+    <!--    more spec detail setup-->
+    <dimen name="more_spec_detail_field_width">@dimen/model_stream_middle_icon</dimen>
+
+    <!--    winner_message_list_adapter_v2_item -->
+    <dimen name="winner_message_list_adapter_v2_item_name_width">150dp</dimen>
+
+    <!--    button-->
+    <dimen name="model_stream_button_radius">4dp</dimen>
+    <dimen name="model_stream_button_border_width">1dp</dimen>
+    <dimen name="model_stream_button_padding_left">22dp</dimen>
+    <dimen name="model_stream_button_padding_top">10dp</dimen>
+
+    <!--    model_user_message_switch_left_view_disable_bg.xml-->
+    <dimen name="model_user_message_switch_left_view_radius">50dp</dimen>
+
+    <!--    model_stream_beautiful_face_activity2.xml-->
+    <dimen name="model_stream_beautiful_face_activity2_title_top_padding">13dp</dimen>
+    <dimen name="model_stream_beautiful_face_activity2_title_left_padding">22dp</dimen>
+    <dimen name="model_stream_beautiful_face_activity2_title_head_border_top_padding">13dp</dimen>
+    <dimen name="model_stream_beautiful_face_activity2_title_head_border_right_padding">22dp</dimen>
+    <dimen name="model_stream_beautiful_face_activity2_title_head_border_left_padding">12dp</dimen>
+    <dimen name="model_stream_beautiful_face_activity2_title_head_border_bottom_padding">12dp</dimen>
+    <dimen name="model_stream_beautiful_face_activity2_title_head_function_layout_width">88dp</dimen>
+    <dimen name="model_stream_beautiful_face_activity2_title_head_function_layout_height">53dp</dimen>
+
+    <!--    new_count_sale_activity.xml-->
+    <dimen name="model_stream_new_count_sale_activity_action_field_width">72dp</dimen>
+
+    <!--    model_stream_new_fast_create_product_activity2.xml-->
+    <dimen name="model_stream_new_fast_create_product_activity2_padding">16dp</dimen>
+
+    <!--    model_custom_search_bar.xml-->
+    <dimen name="model_stream_model_custom_search_bar_icon_height">24dp</dimen>
+
+    <!--    new_item_spec_setup_adapter_item_2_1.xml-->
+    <dimen name="model_stream_new_item_spec_setup_adapter_item_2_1_padding">8dp</dimen>
+</resources>
